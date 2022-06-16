@@ -1,7 +1,7 @@
 ---
 title: "Not Much Of An Intro"
 date: 2022-06-16T22:25:00+08:00
-draft: true
+draft: false
 tags: ['misc']
 categories: ['personal']
 ---
