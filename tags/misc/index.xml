@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>typed thoughts</title>
-    <link>https://typedthoughts.github.io/</link>
-    <description>Recent content on typed thoughts</description>
+    <title>misc on typed thoughts</title>
+    <link>https://typedthoughts.github.io/tags/misc/</link>
+    <description>Recent content in misc on typed thoughts</description>
     <image>
       <url>https://typedthoughts.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://typedthoughts.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Jun 2022 22:25:00 +0800</lastBuildDate><atom:link href="https://typedthoughts.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2022 22:25:00 +0800</lastBuildDate><atom:link href="https://typedthoughts.github.io/tags/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Not Much Of An Intro</title>
       <link>https://typedthoughts.github.io/posts/intro/</link>
@@ -19,8 +19,6 @@
       <description>I wanted to find a place where I could anonymously share my musings with the rest of the world. I&amp;rsquo;m in &amp;ldquo;big tech&amp;rdquo; for almost a decade now, and have seen how most of these companies used to be to driven and innovative, only to focus more on being politically correct in recent times.
 Been in crypto since 2014, even though I sodl early, but managed to make a decent comeback in 2017 and again in 2020.</description>
     </item>
-    
-    
     
   </channel>
 </rss>
